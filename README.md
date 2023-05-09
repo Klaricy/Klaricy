@@ -1,6 +1,6 @@
 ## Olá, meu nome é Kemelly Klaricy
 - 👩‍💻 Estudante de Ciência da Computação
-- 💻 Técnica de Informática 
+- 💻 Técnica em Informática 
 
 <div>
   <a href="https://beacons.ai/klaricy">
