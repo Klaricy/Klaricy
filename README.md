@@ -1,6 +1,6 @@
 ## Olá, meu nome é Kemelly Klaricy
-- 👩‍💻 Estudante de Ciência da Computação
-- 💻 Técnica em Informática 
+- 👩‍💻 Estudante de Ciência da Computação - UEPB Campus Patos
+- 💻 Técnica em Informática - IFPB Campus Itaporanga
 
 <div>
   <a href="https://beacons.ai/klaricy">
